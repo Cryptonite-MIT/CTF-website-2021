@@ -19,8 +19,7 @@ function App() {
         minWidth: 200.00,
         color: 0x0b9444,
         color3: 0xffffff,
-        backgroundColor: 0x131f20,
-        scale: 1.0
+        backgroundColor: 0x131f20
       }))
     }
     return () => {
@@ -34,11 +33,13 @@ function App() {
       <div className="actual-text">
         <Header/>
         <div className="banner-cont">
-          <h1>NiteCTF</h1>
+          <h1>niteCTF</h1>
         </div>
         <div className="content-cont">
           <div className="content">
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+            <p>niteCTF is a jeopardy style CTF for students interested in cybersecurity. niteCTF is designed to help students explore newer domains in cybersecurity as well as help existing professionals practise their skills. We will feature challenges which cover various domains of cybersecurity including cryptography, reversing, forensics, web exploitation, pwn and more!
+            </p>
+            <p>We will also have exciting prizes for the teams that come 1st, 2nd or 3rd in the CTF</p>
             <h3>Coming on 10 December 2021</h3>
           </div>
         </div>
