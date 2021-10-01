@@ -4,6 +4,7 @@ import Footer from './components/Footer'
 import BitCoin from './components/Bitcoin';
 import Header from './components/Header';
 import GLOBE from 'vanta/dist/vanta.globe.min'
+import gcpLogo from './logo_googleCloud.png'
 
 function App() {
   const reference = useRef(0);
@@ -41,6 +42,8 @@ function App() {
             </p>
             <p>We will also have exciting prizes for the teams that come 1st, 2nd or 3rd in the CTF</p>
             <h3>Coming on 10 December 2021</h3>
+            <br></br>
+            <p><small>Infra sponsored by <a href="https://g.co/cloud"><img className="content-google-cloud-logo" src={gcpLogo} alt="Google Cloud"></img></a></small></p>
           </div>
         </div>
         <Footer/>
