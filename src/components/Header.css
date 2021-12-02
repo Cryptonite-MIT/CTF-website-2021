@@ -11,12 +11,17 @@
   margin: 0;
   padding: 1em;
   display: flex;
+  align-items: flex-start;
 }
 
 .header li {
   list-style-type: none;
   padding-top: 0;
   padding: 1em;
+}
+
+.header li:nth-last-child(2) {
+  margin-left: auto;
 }
 
 .hover-underline-animation {
