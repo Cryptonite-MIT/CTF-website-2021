@@ -3,7 +3,7 @@ footer {
   font-size: small;
   bottom: 0;
   z-index: 2;
-  width: calc(100vw - 0.5em);
+  width: calc(100vw - 1em);
   margin: 0.5em;
   display: flex;
   color: #fff;

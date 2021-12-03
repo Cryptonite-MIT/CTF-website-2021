@@ -61,7 +61,7 @@
   margin-left: 17px;
 }
 
-@media  only screen and (max-width: 630px) {
+@media  only screen and (max-width: 800px) {
   .splash-screen {
     display: none;
   }
@@ -79,8 +79,8 @@
 
   .actual-text {
     position: relative;
-    min-height: auto;
-    min-width: auto;
+    min-height: 100vh;
+    min-width: 100vw;
   }
 
   .content-cont {
