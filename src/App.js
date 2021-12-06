@@ -49,7 +49,7 @@ function App() {
             <p><h3><Timer/> to go!</h3></p>
             <p><small>Infra sponsored by <a href="https://g.co/cloud"><img className="content-google-cloud-logo" src={gcpLogo} alt="Google Cloud"></img></a></small></p>
             <p>
-              <a href="https://discord.gg/awh7UCTk" target="_blank" rel="noreferrer"><FontAwesomeIcon icon={faDiscord}/></a>&nbsp;
+              <a href="https://discord.gg/thTagHkyWB" target="_blank" rel="noreferrer"><FontAwesomeIcon icon={faDiscord}/></a>&nbsp;
               <a href="https://www.facebook.com/cryptonitemanipal/" target="_blank" rel="noreferrer"><FontAwesomeIcon icon={faFacebook}/></a>&nbsp;
               <a href="https://www.instagram.com/cryptonite_mit/" target="_blank" rel="noreferrer"><FontAwesomeIcon icon={faInstagram}/></a>&nbsp;
               <a href="https://www.linkedin.com/company/cryptonite-mit" target="_blank" rel="noreferrer"><FontAwesomeIcon icon={faLinkedin}/></a>&nbsp;
