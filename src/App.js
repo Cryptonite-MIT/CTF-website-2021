@@ -45,7 +45,8 @@ function App() {
           <div className="content">
             <p>niteCTF is a jeopardy style CTF for students interested in cybersecurity. niteCTF is designed to help students explore newer domains in cybersecurity as well as help existing professionals practise their skills. We will feature challenges which cover various domains of cybersecurity including cryptography, reversing, forensics, web exploitation, pwn and more!
             </p>
-            <p>We will also have exciting prizes for the teams that come 1st, 2nd or 3rd in the CTF</p>
+            <p>We have prizes for first second and third place!</p>
+            <p>1st place - 8000 INR<br/>2nd place - 5000 INR<br/>3rd place - 3000 INR</p>
             <p><h3><Timer/> to go!</h3></p>
             <p><small>Infra sponsored by <a href="https://g.co/cloud"><img className="content-google-cloud-logo" src={gcpLogo} alt="Google Cloud"></img></a></small></p>
             <p>
